@@ -4,4 +4,8 @@ testu gehiago
 klasjfdkañsjfñ
 que paso que paso
 eta bukatzeko hau
+<<<<<<< HEAD
 Bokata petxuga mesedez
+=======
+y si nos vamos
+>>>>>>> d62eb4fc7e85adfd6e08fcd57dcc215105cfde5b
